@@ -1,3 +1,8 @@
+#.net
+bin/
+obj/
+Backup/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
